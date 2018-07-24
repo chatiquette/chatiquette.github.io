@@ -1,3 +1,7 @@
+---
+permalink: /slack/
+---
+
 Slack Ettiquite
 
 # Size Matters - Pay attention to the channel size
